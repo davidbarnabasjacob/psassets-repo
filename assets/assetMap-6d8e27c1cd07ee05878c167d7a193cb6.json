@@ -1,0 +1,21 @@
+{
+  "assets": {
+    "assets/early-access-awaited.svg": "assets/early-access-awaited-bae6bfa2c6cfa29912b1f4e70e06e83e.svg",
+    "assets/empty-project.svg": "assets/empty-project-35e53678b7611e9bf1566451cc8e186b.svg",
+    "assets/error.svg": "assets/error-1342065be041de7ad54ab6a32bc67466.svg",
+    "assets/images/components-icons-new2x.png": "assets/images/components-icons-new2x-a69812ab8474644a04a2e9abc92703b8.png",
+    "assets/images/flags.png": "assets/images/flags-416250f60d785a2e02f17e054d2e4e44.png",
+    "assets/images/flags@2x.png": "assets/images/flags@2x-d429a5777afaf2fc349652e812e9bb11.png",
+    "assets/new-goal.svg": "assets/new-goal-258d5ace2735ff828834015ac3ccabb7.svg",
+    "assets/new-projects.svg": "assets/new-projects-35c0811e29894d40b05ebd23a65955b3.svg",
+    "assets/no-access.svg": "assets/no-access-eb3138f65dbee93bfaa4ef7262424c5b.svg",
+    "assets/no-clear-data.svg": "assets/no-clear-data-138c137bdfe27b7017b2c97f9199d86a.svg",
+    "assets/no-data.svg": "assets/no-data-6873111169c1ca865f83a103dde4910b.svg",
+    "assets/no-incoming-data.svg": "assets/no-incoming-data-3e0aedf70ae85af6a5328590f5cb9570.svg",
+    "assets/no-screenshot.svg": "assets/no-screenshot-7de196bd32fa16eadac338521845d4fb.svg",
+    "assets/pagesense.ico": "assets/pagesense-76f8efe6acd1e12a456eb425ce9742f4.ico",
+    "assets/symbols.svg": "assets/symbols-044c9369f3bcec45d35474d6b17107a5.svg",
+    "assets/under-construction.svg": "assets/under-construction-111a9b58f3e90cee799ba9c5d7eb17de.svg"
+  },
+  "prepend": ""
+}

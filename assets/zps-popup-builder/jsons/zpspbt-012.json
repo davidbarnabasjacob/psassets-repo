@@ -1,0 +1,447 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-012"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "1"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "22"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n height: 100%;\n font-family: 'Trebuchet MS';\n display: flex;\n justify-content: center;\n align-items: center;\n background: rgba(0, 0, 0, 0.6);\n font-size: 14px;\n }\n .zpspbt-popup {\n padding: 40px;\n text-align: left;\n }\n .zpspbt-inner-wrapper {\n max-width: 575px;\n width: 100%;\n position: relative;\n box-sizing: border-box;\n background: #fff;\n min-height: 150px;\n min-width: 200px;\n box-shadow: 0 0 7px #cfcfcf;\n }\n .zpsbt-outer-block {\n text-align: center;\n }\n .zpspbt-heading {\n margin: 0 0 20px;\n font-size: 2em;\n }\n .zpspbt-form-group {\n margin: 0;\n }\n .zpspbt-content {\n margin: 0 0 20px;\n font-size: 1em;\n line-height: 22px;\n }\n .zpspbt-default-input-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n color: #929292;\n resize: none;\n font-size: 1em;\n padding: 5px 10px;\n height: 36px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-input-box{\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n color: #929292;\n resize: none;\n font-size: 1em;\n padding: 5px 10px;\n height: 36px;\n background: #fff;\n font-family: 'Trebuchet MS'; \n }\n .zpspbt-default-button {\n background: #dcdddf;\n color: #a5aaaf;\n border: none;\n font-size: 1em;\n height: 36px;\n border-radius: 5px;\n cursor: pointer;\n display: inline-block;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-text-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #929292;\n resize: none;\n font-size: 1em;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-close-button {\n position: absolute;\n top: 5%;\n right: 5%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.5em;\n height: 1.5em;\n line-height: 12px;\n background: #dcdde0;\n border-radius: 50px;\n }\n .zpspbt-close-icon {\n color: #a5aaaf;\n }\n .zpspbt-inner-content{\n margin: 0 0 0 20px;\n }\n @media(max-width: 767px){\n .zpspbt-outer-wrapper {\n font-size: 14px;\n align-items: flex-start;\n }\n .zpspbt-popup{\n padding: 15px;\n }\n .zpspbt-input-box{\n margin: 0 0 20px;\n }\n .zpsbt-outer-block{\n margin: 0 0 20px;\n }\n .zpspbt-inner-wrapper {\n margin: 15px 15px 0;\n }\n .zpspbt-inner-content{\n margin: 0;\n }\n }\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": " \n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-popup"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "5"
+                }, {
+                    "aN": "class",
+                    "aV": "row"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "6"
+                    }, {
+                        "aN": "class",
+                        "aV": "col-d-4 col-m-12 zpspbt-imageblock"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "DIV",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "7"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpsbt-outer-block col-d-12"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "IMG",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "8"
+                            }, {
+                                "aN": "style",
+                                "aV": "width: 100%;"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-trigger-image-upload zpspbt-logo-icon"
+                            }, {
+                                "aN": "src",
+                                "aV": "/assets/zps-popup-builder/images/zpspbt-013.png"
+                            }, {
+                                "aN": "alt",
+                                "aV": "small-icon"
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "9"
+                    }, {
+                        "aN": "class",
+                        "aV": "col-d-8 col-m-12 zpspbt-content-block"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "DIV",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "10"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-inner-content"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "H1",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "11"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-heading"
+                            }],
+                            "cN": [{
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "\n Type your heading\n "
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "P",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "12"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-content"
+                            }],
+                            "cN": [{
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "\n Click here to add engaging content that promotes your brand and grabs your visitors’ attention right away.\n "
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "FORM",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "13"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-form-group"
+                            }],
+                            "cN": [{
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "\n "
+                            }, {
+                                "nT": 1,
+                                "tN": "DIV",
+                                "attr": [{
+                                    "aN": "data-zs-id",
+                                    "aV": "14"
+                                }, {
+                                    "aN": "class",
+                                    "aV": "row"
+                                }],
+                                "cN": [{
+                                    "nT": 3,
+                                    "tN": "#text",
+                                    "tC": "\n "
+                                }, {
+                                    "nT": 1,
+                                    "tN": "DIV",
+                                    "attr": [{
+                                        "aN": "data-zs-id",
+                                        "aV": "15"
+                                    }, {
+                                        "aN": "class",
+                                        "aV": "col-d-8 col-m-12"
+                                    }],
+                                    "cN": [{
+                                        "nT": 3,
+                                        "tN": "#text",
+                                        "tC": "\n "
+                                    }, {
+                                        "nT": 1,
+                                        "tN": "DIV",
+                                        "attr": [{
+                                            "aN": "data-zs-id",
+                                            "aV": "16"
+                                        }, {
+                                            "aN": "class",
+                                            "aV": "zpspbt-form-group-inner"
+                                        }],
+                                        "cN": [{
+                                            "nT": 3,
+                                            "tN": "#text",
+                                            "tC": "\n "
+                                        }, {
+                                            "nT": 1,
+                                            "tN": "INPUT",
+                                            "attr": [{
+                                                "aN": "data-zs-id",
+                                                "aV": "17"
+                                            }, {
+                                                "aN": "class",
+                                                "aV": "zpspbt-input-box col-d-11 col-m-12"
+                                            }, {
+                                                "aN": "type",
+                                                "aV": "email"
+                                            }, {
+                                                "aN": "name",
+                                                "aV": "Email id"
+                                            }]
+                                        }, {
+                                            "nT": 3,
+                                            "tN": "#text",
+                                            "tC": "\n "
+                                        }]
+                                    }, {
+                                        "nT": 3,
+                                        "tN": "#text",
+                                        "tC": "\n "
+                                    }]
+                                }, {
+                                    "nT": 3,
+                                    "tN": "#text",
+                                    "tC": "\n "
+                                }, {
+                                    "nT": 1,
+                                    "tN": "DIV",
+                                    "attr": [{
+                                        "aN": "data-zs-id",
+                                        "aV": "18"
+                                    }, {
+                                        "aN": "class",
+                                        "aV": "col-d-4 col-m-12"
+                                    }],
+                                    "cN": [{
+                                        "nT": 3,
+                                        "tN": "#text",
+                                        "tC": "\n "
+                                    }, {
+                                        "nT": 1,
+                                        "tN": "DIV",
+                                        "attr": [{
+                                            "aN": "data-zs-id",
+                                            "aV": "19"
+                                        }, {
+                                            "aN": "class",
+                                            "aV": "zpspbt-form-submit"
+                                        }],
+                                        "cN": [{
+                                            "nT": 3,
+                                            "tN": "#text",
+                                            "tC": "\n "
+                                        }, {
+                                            "nT": 1,
+                                            "tN": "BUTTON",
+                                            "attr": [{
+                                                "aN": "data-zs-id",
+                                                "aV": "20"
+                                            }, {
+                                                "aN": "type",
+                                                "aV": "submit"
+                                            }, {
+                                                "aN": "value",
+                                                "aV": "Submit"
+                                            }, {
+                                                "aN": "data-target",
+                                                "aV": "_parent"
+                                            }, {
+                                                "aN": "class",
+                                                "aV": "zpspbt-default-button zpspbt-submit-button"
+                                            }],
+                                            "cN": [{
+                                                "nT": 3,
+                                                "tN": "#text",
+                                                "tC": "BUTTON"
+                                            }]
+                                        }, {
+                                            "nT": 3,
+                                            "tN": "#text",
+                                            "tC": "\n "
+                                        }]
+                                    }, {
+                                        "nT": 3,
+                                        "tN": "#text",
+                                        "tC": "\n "
+                                    }]
+                                }, {
+                                    "nT": 3,
+                                    "tN": "#text",
+                                    "tC": "\n "
+                                }]
+                            }, {
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "\n\n "
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "21"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "id",
+                "aV": "zpspbt-close-popup-button"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "22"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}

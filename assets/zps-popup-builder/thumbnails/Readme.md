@@ -1,0 +1,1 @@
+The thumbnails of popup templates are to be added here

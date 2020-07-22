@@ -1,0 +1,297 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-022"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "12"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "3"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "14"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n height: 100%;\n font-family: 'Trebuchet MS';\n display: flex;\n align-items: flex-start;\n background: rgba(0, 0, 0, 0.6);\n font-size: 14px;\n }\n .zpspbt-inner-wrapper {\n background: #fff;\n width: 100%;\n display: flex;\n justify-content: center;\n padding: 30px 20px 20px;\n box-shadow: 0 0 7px #cfcfcf;\n }\n .zpspbt-image-inner{\n width: 60px;\n height: 60px;\n border-radius: 50px;\n justify-content: center;\n align-items: center;\n display: flex;\n }\n .zpspbt-content{\n font-size: 1em;\n padding: 0 50px 0 0;\n margin: 0;\n line-height: 20px;\n margin: 0 0 15px;\n }\n .zpspbt-inuput-field {\n height: 20px;\n border: 1px solid #cbcbcb;\n border-radius: 5px;\n }\n .zpspbt-close-button {\n position: absolute;\n top: 1.5%;\n right: 5%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.25em;\n height: 1.25em;\n line-height: 12px;\n color: #000;\n background: #dcdde0;\n border-radius: 50px;\n }\n .zpspbt-close-icon {\n color: #a5aaaf;\n }\n .zpspbt-default-button{\n background: #dcdddf;\n color: #a5aaaf;\n border: none;\n font-size: 1em;\n height: 40px;\n border-radius: 5px;\n cursor: pointer;\n display: inline-block;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-text-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #929292;\n resize: none;\n font-size: 1em;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-input-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n color: #929292;\n resize: none;\n font-size: 1em;\n padding: 5px 10px;\n height: 36px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-button{\n background: #dcdddf;\n color: #a5aaaf;\n border: none;\n font-size: 1em;\n height: 40px;\n border-radius: 50px;\n cursor: pointer;\n display: inline-block;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-image-block{\n justify-content: flex-end;\n display: flex;\n }\n .zpspbt-content-block{\n flex-direction: row;\n display: flex;\n }\n @media(min-width: 320px) and (max-width: 767px) {\n .zpspbt-outer-wrapper {\n font-size: 12px;\n }\n .zpspbt-content{\n padding: 0;\n }\n .zpspbt-content-block{\n flex-direction: column;\n }\n \n }\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-image-block col-d-2"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "5"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-image-inner"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "IMG",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "6"
+                    }, {
+                        "aN": "style",
+                        "aV": "width: 100%;"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-trigger-image-upload zpspbt-logo-icon"
+                    }, {
+                        "aN": "src",
+                        "aV": "/assets/zps-popup-builder/images/zpspbt-016.png"
+                    }, {
+                        "aN": "alt",
+                        "aV": "small-icon"
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "7"
+            }, {
+                "aN": "class",
+                "aV": "col-d-10"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "8"
+                }, {
+                    "aN": "style",
+                    "aV": "display: flex; padding-left: 30px;"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "9"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-content-block"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "P",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "10"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-content col-d-9 col-m-12"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n Click here to add engaging content that promotes your brand and grabs your visitors’ attention right away.\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "FORM",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "11"
+                        }, {
+                            "aN": "class",
+                            "aV": "col-d-3"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "BUTTON",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "12"
+                            }, {
+                                "aN": "type",
+                                "aV": "submit"
+                            }, {
+                                "aN": "value",
+                                "aV": "Submit"
+                            }, {
+                                "aN": "data-target",
+                                "aV": "_parent"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-button zpspbt-submit-button col-d-12 col-m-6"
+                            }],
+                            "cN": [{
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "BUTTON"
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n \n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "13"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "id",
+                "aV": "zpspbt-close-popup-button"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "14"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}

@@ -1,0 +1,323 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-002"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "2"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "15"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n height: 100%;\n font-family: 'Trebuchet MS';\n display: flex;\n justify-content: flex-end;\n align-items: flex-end;\n background: rgba(0,0,0,0.6);\n font-size: 14px;\n }\n .zpspbt-inner-wrapper {\n max-width: 325px;\n width: 100%;\n box-sizing: border-box;\n background: #fff;\n position: relative;\n margin: 0 15px 15px 0;\n min-height: 200px;\n min-width: 150px;\n }\n .zpspbt-inner-block {\n padding: 40px 25px 40px;\n }\n .zpspbt-imageblock {\n display: flex;\n align-items: center;\n justify-content: center;\n }\n .zpspbt-popup-heading {\n font-size: 2em;\n margin: 15px 0;\n text-align: center;\n line-height: 32px;\n }\n .zpspbt-popup-content {\n font-size: 1em;\n color: #4d4d4d;\n margin: 0 0 20px;\n line-height: 20px;\n text-align: center;\n }\n .zpspbt-default-input-box {\n height: 35px;\n box-sizing: border-box;\n border: 1px solid #e6e6e6;\n border-radius: 3px;\n padding: 10px;\n color: #a5a5a5;\n font-size: 0.9em;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n\n .zpspbt-default-button {\n background: #ad1c49;\n color: #fff;\n border: none;\n padding: 12px 10px;\n font-size: 1em;\n border-radius: 5px;\n display: inline-block;\n cursor: pointer;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-form-group {\n margin: 0;\n }\n .zpspbt-form {\n margin: 0 0 30px;\n }\n .zpspbt-close-button {\n position: absolute;\n top: 2%;\n right: 5%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.5em;\n height: 1.5em;\n line-height: 12px;\n color:#000;\n }\n .zpspbt-form-submit{\n text-align: center;\n }\n .zpspbt-default-text-box{\n box-sizing: border-box;\n border: 1px solid #e6e6e6;\n border-radius: 3px;\n padding: 10px;\n color: #a5a5a5;\n resize: none;\n font-size: 1em;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n @media(max-width: 767px){\n .zpspbt-outer-wrapper {\n font-size: 14px;\n align-items: flex-start;\n justify-content: center;\n }\n .zpspbt-inner-wrapper {\n margin: 15px 15px 0;\n }\n\n }\n \n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-inner-block"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "5"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-imageblock"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "IMG",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "6"
+                    }, {
+                        "aN": "style",
+                        "aV": "max-width: 100%;"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-popup-img"
+                    }, {
+                        "aN": "src",
+                        "aV": "/assets/zps-popup-builder/images/zpspbt-001.png"
+                    }, {
+                        "aN": "alt",
+                        "aV": "icon"
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "H1",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "7"
+                }, {
+                    "aN": "style",
+                    "aV": "font-weight: normal"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-popup-heading"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n Unbox happiness!\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "P",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "8"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-popup-content"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n Get $15 off this new year season and enjoy the happiness of gifting your loved ones.\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "FORM",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "9"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-form-group"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "10"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-form"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "INPUT",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "11"
+                        }, {
+                            "aN": "style",
+                            "aV": "width: 100%;"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-default-input-box"
+                        }, {
+                            "aN": "type",
+                            "aV": "email"
+                        }, {
+                            "aN": "name",
+                            "aV": "Email id"
+                        }, {
+                            "aN": "placeholder",
+                            "aV": "Enter your email address"
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "12"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-form-submit"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "BUTTON",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "13"
+                        }, {
+                            "aN": "type",
+                            "aV": "submit"
+                        }, {
+                            "aN": "value",
+                            "aV": "Get My Coupon"
+                        }, {
+                            "aN": "data-target",
+                            "aV": "_parent"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-default-button zpspbt-submit-button"
+                        }, {
+                            "aN": "style",
+                            "aV": "width: 60%"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "Sign Up Now"
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "14"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button zpspbt-close-popup-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "15"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}

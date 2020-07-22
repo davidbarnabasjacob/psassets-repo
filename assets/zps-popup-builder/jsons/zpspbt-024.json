@@ -1,0 +1,167 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-024"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "13"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "3"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "8"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n height: 100%;\n font-family: 'Trebuchet MS';\n display: flex;\n align-items: flex-start;\n background: rgba(0, 0, 0, 0.6);\n font-size: 14px;\n }\n .zpspbt-inner-wrapper {\n background: #fff;\n width: 100%;\n display: flex;\n justify-content: center;\n align-items: center;\n padding: 20px;\n box-shadow: 0 0 7px #cfcfcf;\n }\n .zpspbt-heading {\n display: flex;\n font-size: 2em;\n vertical-align: top;\n margin: 0;\n }\n .zpspbt-content{\n font-size: 1em;\n padding: 0 0 0 50px;\n line-height: 22px;\n }\n .zpspbt-form-block {\n display: flex;\n justify-content: center;\n line-height: 0;\n margin-left: 50px;\n }\n .zpspbt-inuput-field {\n height: 20px;\n border: 1px solid #cbcbcb;\n border-radius: 5px;\n }\n .zpspbt-close-button {\n position: absolute;\n top: 1.5%;\n right: 5%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.25em;\n height: 1.25em;\n line-height: 12px;\n color: #000;\n background: #dcdde0;\n border-radius: 50px;\n }\n .zpspbt-default-text-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #929292;\n resize: none;\n font-size: 1em;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-input-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n color: #929292;\n resize: none;\n font-size: 1em;\n padding: 5px 10px;\n height: 36px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-button {\n background: #dcdddf;\n color: #a5aaaf;\n border: none;\n padding: 0px 40px;\n font-size: 14px;\n height: 40px;\n border-radius: 5px;\n cursor: pointer;\n display: inline-block;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-text-box{\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #929292;\n resize: none;\n font-size: 12px;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-input-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n color: #929292;\n resize: none;\n font-size: 1em;\n padding: 5px 10px;\n height: 36px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-close-icon {\n color: #a5aaaf;\n }\n @media(min-width: 320px) and (max-width: 767px) {\n .zpspbt-outer-wrapper {\n font-size: 13px;\n }\n .zpspbt-inner-wrapper {\n justify-content: center;\n flex-wrap: wrap;\n }\n .zpspbt-heading {\n flex: 0 0 100%;\n margin: 15px 0 0;\n }\n .zpspbt-form-block {\n flex: 0 0 100%;\n }\n .zpspbt-content{\n padding: 0;\n }\n }\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "H1",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-heading"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n Type your heading\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "5"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "P",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "6"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-content"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n Click here to add engaging content that promotes your brand and grabs your visitors’ attention right away.\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n \n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "7"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "id",
+                "aV": "zpspbt-close-popup-button"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "8"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}

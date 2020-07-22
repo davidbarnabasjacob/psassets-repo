@@ -1,0 +1,339 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-010"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "12"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "1"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "16"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n font-family: 'Tahoma';\n display: flex;\n justify-content: center;\n align-items: center;\n height: 100%;\n background: rgba(0,0,0,0.6);\n font-size: 14px;\n }\n .zpspbt-inner-wrapper {\n max-width: 780px;\n width: 100%;\n box-sizing: border-box;\n background: #007461;\n color: #fff;\n position: relative;\n min-height: 150px;\n min-width: 200px;\n }\n .zpspbt-heading {\n font-size: 2.7em;\n margin: 0 0 30px;\n line-height: 46px;\n }\n .zpspbt-content {\n font-size: 1.3em;\n line-height: 30px;\n margin: 0 0 10px;\n }\n .zpspbt-content-block {\n padding: 55px 75px 55px 70px;\n box-sizing: border-box;\n }\n .zpspbt-form-group {\n padding: 20px 0 0;\n margin: 0;\n }\n .zpspbt-default-input-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 5px;\n color: #7c7c7c;\n font-size: 0.9em;\n font-family: 'Tahoma';\n padding: 13px 15px;\n display: block;\n background: #fff;\n }\n .zpspbt-form-submit {\n margin: 25px 0 0;\n text-align: left;\n }\n .zpspbt-formblock {\n display: flex;\n justify-content: center;\n }\n .zpspbt-default-button {\n background: #ff9f2b;\n color: #fff;\n border: none;\n padding: 12px 10px;\n border-radius: 5px;\n font-size: 1em;\n cursor: pointer;\n display: inline-block;\n font-family: 'Tahoma';\n }\n .zpspbt-close-button {\n position: absolute;\n top: 4%;\n right: 2%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.5em;\n height: 1.5em;\n color: #fff;\n background: #007461;\n border-radius: 50px;\n line-height: 12px;\n }\n\n .zpspbt-default-text-box {\n width: 100%;\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 15px;\n color: #7c7c7c;\n resize: none;\n font-size: 0.9em;\n height: 100px;\n background: #fff;\n font-family: 'Tahoma';\n }\n @media(max-width: 767px){\n .zpspbt-outer-wrapper {\n font-size: 12px;\n align-items: flex-start;\n justify-content: center;\n }\n .zpspbt-inner-wrapper {\n margin: 15px 15px 0;\n }\n .zpspbt-content-block{\n padding: 55px 25px 55px 25px;\n }\n } \n\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "class",
+                "aV": "row zpspbt-popup-template"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "5"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-content-block col-d-9"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "H1",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "6"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-heading"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n Stay Natural. Stay Young.\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "P",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "7"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-content"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n Get special offers and discount coupons on all our organic skin and body care products.\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "FORM",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "8"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-form-group"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "DIV",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "9"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-formblock"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "INPUT",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "10"
+                            }, {
+                                "aN": "style",
+                                "aV": "max-width: 100%;width: 100%;"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-default-input-box"
+                            }, {
+                                "aN": "type",
+                                "aV": "email"
+                            }, {
+                                "aN": "name",
+                                "aV": "Email id"
+                            }, {
+                                "aN": "placeholder",
+                                "aV": "Enter your email address"
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "DIV",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "11"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-form-submit"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }, {
+                            "nT": 1,
+                            "tN": "BUTTON",
+                            "attr": [{
+                                "aN": "data-zs-id",
+                                "aV": "12"
+                            }, {
+                                "aN": "type",
+                                "aV": "submit"
+                            }, {
+                                "aN": "value",
+                                "aV": "Shop Now"
+                            }, {
+                                "aN": "data-target",
+                                "aV": "_parent"
+                            }, {
+                                "aN": "class",
+                                "aV": "zpspbt-default-button zpspbt-submit-button"
+                            }, {
+                                "aN": "style",
+                                "aV": "font-weight: bold; width:38%;"
+                            }],
+                            "cN": [{
+                                "nT": 3,
+                                "tN": "#text",
+                                "tC": "SHOP NOW"
+                            }]
+                        }, {
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "\n "
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "13"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-image-block col-d-3 col-m-hd"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "IMG",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "14"
+                    }, {
+                        "aN": "style",
+                        "aV": "max-width: 100%;"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-banner-image"
+                    }, {
+                        "aN": "src",
+                        "aV": "/assets/zps-popup-builder/images/zpspbt-010.png"
+                    }, {
+                        "aN": "alt",
+                        "aV": "banner-image"
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "15"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button zpspbt-close-popup-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "16"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}

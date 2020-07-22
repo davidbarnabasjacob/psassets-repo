@@ -1,0 +1,1 @@
+The images used inside popup templates are to be added here

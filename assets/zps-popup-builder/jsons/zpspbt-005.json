@@ -1,0 +1,389 @@
+{
+    "nT": 1,
+    "tN": "DIV",
+    "attr": [{
+        "aN": "data-zs-id",
+        "aV": "1"
+    }, {
+        "aN": "class",
+        "aV": "zpspbt-outer-wrapper"
+    }, {
+        "aN": "data-template-id",
+        "aV": "zpspbt-005"
+    }, {
+        "aN": "data-desktop-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-mobile-font-size",
+        "aV": "14"
+    }, {
+        "aN": "data-template-type-id",
+        "aV": "2"
+    }, {
+        "aN": "data-zs-id-ptr",
+        "aV": "18"
+    }],
+    "cN": [{
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "STYLE",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "2"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n .zpspbt-outer-wrapper {\n height: 100%;\n font-family: 'Trebuchet MS';\n display: flex;\n justify-content: flex-end;\n align-items: flex-end;\n background: rgba(0,0,0,0.6);\n font-size: 14px;\n }\n .zpspbt-inner-wrapper {\n max-width: 340px;\n width: 100%;\n box-sizing: border-box;\n background: #fff;\n padding: 35px 40px;\n position: relative;\n margin: 0 15px 15px 0;\n text-align: center;\n min-height: 200px;\n min-width: 150px;\n }\n .zpspbt-logo {\n margin: 0 0 25px;\n text-align: center;\n }\n .zpspbt-heading {\n font-size: 1.6em;\n color: #000;\n margin: 0 0 20px;\n line-height: 26px;\n }\n .zpspbt-popup-inner {\n margin: 0 0 30px;\n text-align: center;\n }\n .zpspbt-content {\n color: #606060;\n font-size: 1em;\n margin: 0;\n line-height: 22px;\n }\n .zpspbt-form-block {\n flex: 2;\n }\n .zpspbt-form-submit{\n flex: 1;\n }\n .zpspbt-form-group-inner {\n display: flex;\n margin: 0 0 30px;\n }\n .zpspbt-input {\n height: 35px;\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #969696;\n font-size: 0.85em;\n font-family: 'Trebuchet MS';\n border-top-right-radius: 0;\n border-bottom-right-radius: 0;\n border-right: none;\n background: #fff;\n }\n .zpspbt-submit {\n background: #0087a8;\n color: #fff;\n border: none;\n border-radius: 5px;\n height: 35px;\n border-top-left-radius: 0;\n border-bottom-left-radius: 0;\n padding: 0 15px;\n cursor: pointer;\n font-size: 0.85em;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-link-content {\n font-size: 0.85em;\n color: #969696;\n display: block;\n }\n .zpspbt-close-button {\n position: absolute;\n top: 2%;\n right: 5%;\n cursor: pointer;\n display: flex;\n justify-content: center;\n align-items: center;\n font-size: 20px;\n width: 1.5em;\n height: 1.5em;\n line-height: 12px;\n color:#000;\n }\n .zpspbt-default-input-box {\n height: 35px;\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #969696;\n font-size: 12px;\n font-family: 'Trebuchet MS';\n background: #fff;\n }\n .zpspbt-default-text-box {\n box-sizing: border-box;\n border: 1px solid #cbcbcb;\n border-radius: 3px;\n padding: 10px;\n color: #929292;\n resize: none;\n font-size: 0.85em;\n height: 90px;\n background: #fff;\n font-family: 'Trebuchet MS';\n }\n .zpspbt-default-button {\n background: #0087a8;\n color: #fff;\n border: none;\n border-radius: 5px;\n height: 35px;\n padding: 0 15px;\n cursor: pointer;\n font-size: 12px;\n font-family: 'Trebuchet MS';\n }\n @media(max-width: 767px){\n .zpspbt-outer-wrapper {\n font-size: 14px;\n align-items: flex-start;\n justify-content: center;\n }\n .zpspbt-inner-wrapper {\n margin: 15px 15px 0;\n }\n }\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n "
+    }, {
+        "nT": 1,
+        "tN": "DIV",
+        "attr": [{
+            "aN": "data-zs-id",
+            "aV": "3"
+        }, {
+            "aN": "class",
+            "aV": "zpspbt-inner-wrapper"
+        }],
+        "cN": [{
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "4"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-logo"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "IMG",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "5"
+                }, {
+                    "aN": "style",
+                    "aV": "width: 182px;"
+                }, {
+                    "aN": "class",
+                    "aV": "zpsbt-logo-icon"
+                }, {
+                    "aN": "src",
+                    "aV": "/assets/zps-popup-builder/images/zpspbt-006.png"
+                }, {
+                    "aN": "alt",
+                    "aV": "icon"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "DIV",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "6"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-popup-inner"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "H1",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "7"
+                }, {
+                    "aN": "style",
+                    "aV": "font-weight: bold;"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-heading"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n Stay in touch, stay inspired!\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "P",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "8"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-content"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n Sign up to receive motivational tips and happiness quotes to your inbox.\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "FORM",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "9"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-form-group"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "10"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-form-group-inner"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "11"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-form-block"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "INPUT",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "12"
+                        }, {
+                            "aN": "style",
+                            "aV": "width: 100%;"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-input"
+                        }, {
+                            "aN": "type",
+                            "aV": "email"
+                        }, {
+                            "aN": "name",
+                            "aV": "Email id"
+                        }, {
+                            "aN": "placeholder",
+                            "aV": "Your email address"
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "DIV",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "13"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-form-submit"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }, {
+                        "nT": 1,
+                        "tN": "BUTTON",
+                        "attr": [{
+                            "aN": "data-zs-id",
+                            "aV": "14"
+                        }, {
+                            "aN": "type",
+                            "aV": "submit"
+                        }, {
+                            "aN": "value",
+                            "aV": "Get code"
+                        }, {
+                            "aN": "data-target",
+                            "aV": "_parent"
+                        }, {
+                            "aN": "class",
+                            "aV": "zpspbt-submit zpspbt-submit-button"
+                        }, {
+                            "aN": "style",
+                            "aV": "width: 100%"
+                        }],
+                        "cN": [{
+                            "nT": 3,
+                            "tN": "#text",
+                            "tC": "SIGN UP"
+                        }]
+                    }, {
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "DIV",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "15"
+                }, {
+                    "aN": "class",
+                    "aV": "zpsbt-link"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }, {
+                    "nT": 1,
+                    "tN": "A",
+                    "attr": [{
+                        "aN": "data-zs-id",
+                        "aV": "16"
+                    }, {
+                        "aN": "style",
+                        "aV": "text-decoration: underline"
+                    }, {
+                        "aN": "class",
+                        "aV": "zpspbt-link-content zpspbt-close-popup-button"
+                    }, {
+                        "aN": "href",
+                        "aV": "#"
+                    }, {
+                        "aN": "data-target",
+                        "aV": "_parent"
+                    }],
+                    "cN": [{
+                        "nT": 3,
+                        "tN": "#text",
+                        "tC": "\n Thanks,I'm not interested\n "
+                    }]
+                }, {
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "\n "
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }, {
+            "nT": 1,
+            "tN": "SPAN",
+            "attr": [{
+                "aN": "data-zs-id",
+                "aV": "17"
+            }, {
+                "aN": "style",
+                "aV": "font-weight: bold;"
+            }, {
+                "aN": "class",
+                "aV": "zpspbt-close-button zpspbt-close-popup-button"
+            }],
+            "cN": [{
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }, {
+                "nT": 1,
+                "tN": "SPAN",
+                "attr": [{
+                    "aN": "data-zs-id",
+                    "aV": "18"
+                }, {
+                    "aN": "class",
+                    "aV": "zpspbt-close-icon"
+                }],
+                "cN": [{
+                    "nT": 3,
+                    "tN": "#text",
+                    "tC": "×"
+                }]
+            }, {
+                "nT": 3,
+                "tN": "#text",
+                "tC": "\n "
+            }]
+        }, {
+            "nT": 3,
+            "tN": "#text",
+            "tC": "\n "
+        }]
+    }, {
+        "nT": 3,
+        "tN": "#text",
+        "tC": "\n"
+    }]
+}
